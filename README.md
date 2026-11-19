@@ -31,8 +31,9 @@ A automação busca simplificar a identificação das marcações, sem dispensar
 - **Git e GitHub:** versionamento e preservação do projeto.
 - **Claude Code:** apoio no desenvolvimento, na investigação de problemas e nos testes.
 
-## 🔍 Etapas# robo-chamadas-portfolio
-Projeto de automação da leitura e validação de folhas de chamada com Python e visão computacional. 
+## 📝 Resumo
+
+**robo-chamadas-portfolio** — projeto de automação da leitura e validação de folhas de chamada com Python e visão computacional.
 
 ## 🧪 Demonstração pública / Public demo
 
