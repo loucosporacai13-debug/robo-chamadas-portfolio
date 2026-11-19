@@ -1,0 +1,110 @@
+[
+ {
+  "linha": 1,
+  "marca_desenhada": "vazio",
+  "descricao": "quadrado vazio",
+  "classe_esperada": "SEM_MARCACAO"
+ },
+ {
+  "linha": 2,
+  "marca_desenhada": "x_forte",
+  "descricao": "X firme",
+  "classe_esperada": "P"
+ },
+ {
+  "linha": 3,
+  "marca_desenhada": "x_torto",
+  "descricao": "X torto",
+  "classe_esperada": "P"
+ },
+ {
+  "linha": 4,
+  "marca_desenhada": "x_pequeno",
+  "descricao": "X pequeno",
+  "classe_esperada": "P"
+ },
+ {
+  "linha": 5,
+  "marca_desenhada": "x_fraco",
+  "descricao": "X em caneta clara",
+  "classe_esperada": "P"
+ },
+ {
+  "linha": 6,
+  "marca_desenhada": "x_muito_fraco",
+  "descricao": "X quase apagado",
+  "classe_esperada": "REVISAR"
+ },
+ {
+  "linha": 7,
+  "marca_desenhada": "risco",
+  "descricao": "um único traço",
+  "classe_esperada": "REVISAR"
+ },
+ {
+  "linha": 8,
+  "marca_desenhada": "fora",
+  "descricao": "X fora do quadrado",
+  "classe_esperada": "SEM_MARCACAO"
+ },
+ {
+  "linha": 9,
+  "marca_desenhada": "assinatura_celula",
+  "descricao": "assinatura invade a célula, não o quadrado",
+  "classe_esperada": "SEM_MARCACAO"
+ },
+ {
+  "linha": 10,
+  "marca_desenhada": "x_com_assinatura",
+  "descricao": "X + assinatura na célula",
+  "classe_esperada": "P"
+ },
+ {
+  "linha": 11,
+  "marca_desenhada": "assinatura_no_quadrado",
+  "descricao": "assinatura cruza o quadrado",
+  "classe_esperada": "REVISAR"
+ },
+ {
+  "linha": 12,
+  "marca_desenhada": "rasurado",
+  "descricao": "rasura",
+  "classe_esperada": "REVISAR"
+ },
+ {
+  "linha": 13,
+  "marca_desenhada": "cruz",
+  "descricao": "cruz (+)",
+  "classe_esperada": "REVISAR"
+ },
+ {
+  "linha": 14,
+  "marca_desenhada": "ponto",
+  "descricao": "ponto",
+  "classe_esperada": "REVISAR"
+ },
+ {
+  "linha": 15,
+  "marca_desenhada": "curva",
+  "descricao": "arco",
+  "classe_esperada": "REVISAR"
+ },
+ {
+  "linha": 16,
+  "marca_desenhada": "v",
+  "descricao": "V",
+  "classe_esperada": "REVISAR"
+ },
+ {
+  "linha": 17,
+  "marca_desenhada": "visto",
+  "descricao": "visto",
+  "classe_esperada": "REVISAR"
+ },
+ {
+  "linha": 18,
+  "marca_desenhada": "vazio",
+  "descricao": "quadrado vazio",
+  "classe_esperada": "SEM_MARCACAO"
+ }
+]

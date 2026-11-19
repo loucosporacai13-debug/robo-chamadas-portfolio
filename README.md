@@ -33,3 +33,11 @@ A automação busca simplificar a identificação das marcações, sem dispensar
 
 ## 🔍 Etapas# robo-chamadas-portfolio
 Projeto de automação da leitura e validação de folhas de chamada com Python e visão computacional. 
+
+## 🧪 Demonstração pública / Public demo
+
+**PT:** a pasta [`demonstracao/`](demonstracao/README.md) traz um gerador de folhas de chamada **100% sintéticas** ([`gerar_folha_sintetica.py`](demonstracao/gerar_folha_sintetica.py)), três folhas fictícias com [gabarito](demonstracao/exemplos/gabarito.json) e os resultados da leitura: [relatório](demonstracao/resultados/relatorio_resultados.md) e painéis da Fase 1b ([base](demonstracao/resultados/paineis/painel_fase1b_base.png), [escura](demonstracao/resultados/paineis/painel_fase1b_escura.png), [perspectiva forte](demonstracao/resultados/paineis/painel_fase1b_perspectiva_forte.png)).
+
+> Os resultados foram produzidos pelo **leitor original de marcações, mantido em repositório privado**. Ele não está neste repositório e esses resultados não podem ser reproduzidos a partir dele; só o gerador e as folhas fictícias podem. Não há fotografias reais, dados de pessoas nem identidade de instituições.
+
+**EN:** the [`demonstracao/`](demonstracao/README.md) folder has a generator of **fully synthetic** attendance sheets, three fictitious sheets with an answer key, and the reading results ([report](demonstracao/resultados/relatorio_resultados.md) and stage 1b panels). The results were produced by the **original mark reader, kept in a private repository**; it is not included here and the results cannot be reproduced from this repository. No real photographs, personal data or institutional identity are used.
